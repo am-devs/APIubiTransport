@@ -8,6 +8,8 @@ SECRET_KEY = "2d5e5297ab8872ed8f8ca64f4eadcb5f9ad3e4c269297c91b751012c8575e541"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
+
+
 users = [{'code':'V12446697','name':'RAMON ALEXIS SUAREZ RUSA', 'password':'12345','admin':False},
         {'code':'V12877074','name':'CARRERO PRATO ROBERTO','password':'12345','admin':False},
         {'code':'V9171390','name':'GONZALEZ RAMIREZ EMIGDIO JOSE','password':'12345','admin':False},
